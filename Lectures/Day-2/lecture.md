@@ -155,6 +155,10 @@ git switch main
 git merge coupon
 ```
 
-
 ## Git 사용 전략
 
+![gitflow](https://techblog.woowahan.com/wp-content/uploads/img/2017-10-30/git-flow_overall_graph.png)
+
+## 더 읽어볼거리
+
+- [우린 Git-flow를 사용하고 있어요](https://techblog.woowahan.com/2553/)
