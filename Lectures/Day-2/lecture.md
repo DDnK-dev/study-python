@@ -1,4 +1,4 @@
-# Day 2 - Git과 파이썬 변수
+# Day 2 - Git 입문
 
 ## Git
 
