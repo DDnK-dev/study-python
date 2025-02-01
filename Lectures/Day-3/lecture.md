@@ -209,6 +209,3 @@ for i in range(10000):
     a *= 2
     print(sys.getsizeof(a))
 ```
-
-### 문자열
-
