@@ -10,3 +10,4 @@
 6. [Day5 - while / for 반복문](https://www.notion.so/Day5-while-for-235e471b5d07809ea945c4717c9e0093?source=copy_link)
 7. [Day6 - 함수](https://www.notion.so/Day-6-Function-24ae471b5d0780a991cae10a64c07cbc?source=copy_link)
 8. [Day7 - 파이썬으로 객체지향 하기](https://www.notion.so/Day7-251e471b5d0780ca8e33d447b7ddcd50?source=copy_link)
+9. [Day8 - 파이썬으로 객체지향 하기 2](https://www.notion.so/Day8-2-259e471b5d0780f3a294fc8b11df7f9e?source=copy_link)
